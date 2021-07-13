@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # task
 
 ## Project setup
